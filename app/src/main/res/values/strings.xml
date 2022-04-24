@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="nombre">Nombre</string>
+    <string name="apellido">Apellido</string>
+    <string name="sueldo">Salario</string>
+    <string name="enviar">Enviar</string>
+    <string name="nombre2">Nombre</string>
+    <string name="apellido2">Apellido</string>
+    <string name="sueldo2">Salario</string>
+    <string name="regresar">Regresar</string>
+
+    //Son calculos para sacar los siguientes datos
+    <string name="igss">Igss</string>
+    <string name="irtra">Irtra</string>
+    <string name="intecap">Intecap</string>
+    <string name="isr">Isr</string>
+    <string name="total">Total a pagar inpuestos</string>
+
+    //esto nada que ver con las funciones principales
+    <string name="tv">Ingrese su datos aquí a bajo </string>
+    <string name="sub">Su sueldo</string>
+    <string name="tv2">Este es su sueldo ya restado con los servicios</string>
+    <string name="img">Imagen</string>
+
+</resources>
